@@ -18,7 +18,7 @@ Sitio probado:
 
 Paso a paso realizado:
 1. Login con usuario estándar
-2. Selección del producto Sauce Labs Fleece Jacket
+2. Selección del producto Sauce Labs Backpack
 3. Almacenamiento de nombre y precio
 4. Validación del producto en el carrito
 5. Proceso completo de checkout
