@@ -8,7 +8,7 @@ Proyecto de automatización desarrollado con **Playwright + TypeScript**.
 - Resultado ordenado A-Z impreso en consola y en el reporte HTML
 
 Ejecutar:
-```bash
+
 npx playwright test tests/evolution.spec.ts
 
 
@@ -26,7 +26,7 @@ Paso a paso realizado:
 
 Se implementa Page Object Model (POM) para una mejor mantenibilidad.
 
-```bash
+Ejecutar: 
 npx playwright test tests/e2e.spec.ts --headed
 
 Para ejecutar todas las pruebas utiliza: npx playwright test
